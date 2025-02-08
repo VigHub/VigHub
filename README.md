@@ -6,6 +6,7 @@ I am a Machine Learning Engineer currently working at ABB in Italy, and I love l
 
 If you want to write me, here are my contacts! 
 
+- 👨🏻<a href="https://vighub.github.io/">Personal website</a>
 - 🔗<a href="https://www.linkedin.com/in/vighub/">LinkedIn</a> 
 - ✉️<a href="mailto:gianluca.vigano414@gmail.com">Personal mail</a>
 <!--
